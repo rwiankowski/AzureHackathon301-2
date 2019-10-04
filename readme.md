@@ -20,6 +20,6 @@ Challenge 1:
 Challenge 2:
 
 * Part a - Migrate a SQL Server to Azure SQL
-* Part b - Load data into an Azure SQL Data Warehouse
+* Part b - Migrate data from Azure Table Storage to CosmosDB
 
 For details see challenge specific folders in this repo.
